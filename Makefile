@@ -5,3 +5,6 @@ clean:
 
 fclean:	clean
 	$(RM) main
+
+tests_run:
+	echo "none"
